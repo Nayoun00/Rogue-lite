@@ -37,6 +37,6 @@ public class ActionData : ScriptableObject
     //mecanimName을 외부에서 접근할 수 있게 추가
     public string MecanimName
     {
-        get { return this.mecanimName; }
+        get { return mecanimName; }
     }
 }

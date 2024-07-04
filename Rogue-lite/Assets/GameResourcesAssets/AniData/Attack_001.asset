@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 01f8b41d38851294dbeed7d7f7026751, type: 3}
-  m_Name: New Action Data
+  m_Name: Attack_001
   m_EditorClassIdentifier: 
   animName: 
-  mecanimName: (New) Jump01 - Start
+  mecanimName: 2H@Attack01
   nextMecanimName: 
   fxTime: 0
   layerName: 
-  waitTime: 0.4633333
+  waitTime: 1.6000001
   nextWaitTime: 0
   fxObject: {fileID: 0}
